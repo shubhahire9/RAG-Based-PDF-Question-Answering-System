@@ -95,8 +95,6 @@ RAG-Based-PDF-Question-Answering/
 │
 ├── RAG_Pipeline.ipynb
 │
-├── requirements.txt
-│
 └── README.md
 ```
 
