@@ -94,9 +94,15 @@ RAG-Based-PDF-Question-Answering/
 │ └── Research.pdf
 │
 ├── RAG_Pipeline.ipynb
-│
+|── output.png
 └── README.md
 ```
+
+---
+
+## 📸 Demo
+
+![RAG Question Answering Demo](output.png)
 
 ---
 
